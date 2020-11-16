@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="contact">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="family">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="friends">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="work">Family Members</string>
+
+</resources>
